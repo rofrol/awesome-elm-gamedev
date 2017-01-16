@@ -31,6 +31,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to [improve](http
 ## Tools
 
 - [rpg-framework](https://github.com/thebritican/rpg-framework)
+- [mazes](https://github.com/coreyhaines/mazes)
 
 **[:arrow_up: back to top](#table-of-contents)**
 
