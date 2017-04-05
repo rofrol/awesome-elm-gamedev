@@ -40,6 +40,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to [improve](http
 
 - [Elm - Coding the A- Pathfinding Algorithm with Jamon Holmgren and Chris Krycho](https://youtu.be/s8dH7k0Zggo)
 - [Aaron VonderHaar - WebGl, sketches, map generation, etc.](https://www.youtube.com/playlist?list=PLDA4wlOlLJvWSYo3KiEa4q4ETkXpTaKlw)
+- [How to Create Tetris in Elm](https://www.youtube.com/watch?v=GMSXYnMH1gg&list=PL7C8fMD-89DKhlerIE3BrYNd0PlhA6Zch)
 
 **[:arrow_up: back to top](#table-of-contents)**
 
