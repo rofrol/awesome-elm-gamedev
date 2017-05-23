@@ -55,6 +55,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to [improve](http
 - [Minesweeper - a brief journey from JavaScript/React to Elm](http://rundis.github.io/blog/2015/elm_sweeper.html) ([github](https://github.com/rundis/elm-sweeper))
 - [Writing Game of Life in Elm](http://sonnym.github.io/2014/05/05/writing-game-of-life-in-elm/)
 - [Five Months of Gamedev with Elm](https://medium.com/@markwunsch/five-months-of-gamedev-with-elm-62be2de75ca2)
+- [Revisiting the Game of Life in Elm](https://sonnym.github.io/2017/05/22/revisiting-the-game-of-life-in-elm/)
 
 **[:arrow_up: back to top](#table-of-contents)**
 
