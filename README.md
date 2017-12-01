@@ -33,6 +33,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to [improve](http
 - [rpg-framework](https://github.com/thebritican/rpg-framework)
 - [mazes](https://github.com/coreyhaines/mazes)
 - [elm-2d-game](https://github.com/Zinggi/elm-2d-game) - A small rendering engine for creating 2d games with elm, based on WebGL
+- [Elmo-8 - PICO-8 inspired fantasy 8-bit game library for Elm](https://github.com/micktwomey/elmo-8)
 
 **[:arrow_up: back to top](#table-of-contents)**
 
