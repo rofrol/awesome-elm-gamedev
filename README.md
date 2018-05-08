@@ -52,7 +52,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to [improve](http
 - [Building a Mastermind game in Elm.](https://alpacaaa.net/blog/post/elm-mastermind-game)
 - [Elm Plane - a Flappy Bird Clone in Elm](http://www.odedwelgreen.com/blog/elm-plane/) ([github](https://github.com/odedw/elm-plane), [reddit](https://www.reddit.com/r/elm/comments/3zg128/writing_a_flappy_bird_cl one_in_elm/))
 - [Using Elm to Create a Fun Game in Just Five Days](https://tech.zalando.com/blog/using-elm-to-create-a-fun-game-in-just-five-days/) ([github](https://github.com/zalando/elm-street-404), [reddit](https://www.reddit.com/r/elm/comments/401448/using_elm_to_create_a_fun_game_in_just_five_days/),  [video](https://www.youtube.com/watch?v=En2BKs8unnQ),  [slides](http://unsoundscapes.com/slides/2016-10-13-creating-a-fun-game-with-elm/))
-- [Revisiting the "hard way": Base for a game in Elm 0.1](http://ohanhi.github.io/base-for-game-elm-017.html)
+- [Revisiting the "hard way": Base for a game in Elm 0.17](http://ohanhi.github.io/base-for-game-elm-017.html)
 - [Minesweeper - a brief journey from JavaScript/React to Elm](http://rundis.github.io/blog/2015/elm_sweeper.html) ([github](https://github.com/rundis/elm-sweeper))
 - [Writing Game of Life in Elm](http://sonnym.github.io/2014/05/05/writing-game-of-life-in-elm/)
 - [Five Months of Gamedev with Elm](https://medium.com/@markwunsch/five-months-of-gamedev-with-elm-62be2de75ca2)
