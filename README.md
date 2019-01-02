@@ -31,10 +31,12 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to [improve](http
 ## Tools
 
 - [pixelEngine](https://github.com/Orasund/pixelengine) - A game engine for pixel games. Sees itself as the spirituell successor to Elm-8
-- [rpg-framework](https://github.com/thebritican/rpg-framework)
-- [mazes](https://github.com/coreyhaines/mazes)
 - [elm-2d-game](https://github.com/Zinggi/elm-2d-game) - A small rendering engine for creating 2d games with elm, based on WebGL
-- [Elmo-8 - PICO-8 inspired fantasy 8-bit game library for Elm](https://github.com/micktwomey/elmo-8)
+- Elm 0.18
+  - [mazes](https://github.com/coreyhaines/mazes)
+  - [Elmo-8](https://github.com/micktwomey/elmo-8) - PICO-8 inspired fantasy 8-bit game library for Elm
+- Elm 0.17
+  - [rpg-framework](https://github.com/thebritican/rpg-framework)
 
 **[:arrow_up: back to top](#table-of-contents)**
 
