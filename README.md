@@ -30,6 +30,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to [improve](http
 
 ## Tools
 
+- [Elm-Gamepad](https://github.com/xarvh/elm-gamepad) - Painless Elm library to use & configure gamepads and game controllers
 - [pixelEngine](https://github.com/Orasund/pixelengine) - A game engine for pixel games. Sees itself as the spirituell successor to Elmo-8
 - [elm-2d-game](https://github.com/Zinggi/elm-2d-game) - A small rendering engine for creating 2d games with elm, based on WebGL
 - Elm 0.18
