@@ -30,6 +30,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to [improve](http
 
 ## Tools
 
+- [Elm-Narrative-Engine](https://github.com/jschomay/elm-narrative-engine/tree/3.0.1) - A unique tool for telling interactive stories.
 - [pixelEngine](https://github.com/Orasund/pixelengine) - A game engine for pixel games. Sees itself as the spirituell successor to Elmo-8
 - [elm-2d-game](https://github.com/Zinggi/elm-2d-game) - A small rendering engine for creating 2d games with elm, based on WebGL
 - Elm 0.18
