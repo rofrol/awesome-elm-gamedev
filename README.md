@@ -30,6 +30,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to [improve](http
 
 ## Tools
 
+- [Elm-Gamepad](https://github.com/xarvh/elm-gamepad) - Painless Elm library to use & configure gamepads and game controllers
 - [Elm-Narrative-Engine](https://github.com/jschomay/elm-narrative-engine/tree/3.0.1) - A unique tool for telling interactive stories.
 - [Elm-Particle](https://github.com/BrianHicks/elm-particle) - Simple particle system for web apps. 
 - [elm-astar](https://github.com/krisajenkins/elm-astar) - The A* pathfinding algorithm for Elm.
