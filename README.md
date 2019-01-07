@@ -30,6 +30,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to [improve](http
 
 ## Tools
 
+- [Slime](https://github.com/seurimas/slime) - Slime provides an easy way to build a full game, using common [Entity-Component-System architecture](https://en.wikipedia.org/wiki/Entity%E2%80%93component%E2%80%93system).
 - [Elm-Particle](https://github.com/BrianHicks/elm-particle) - Simple particle system for web apps. 
 - [elm-astar](https://github.com/krisajenkins/elm-astar) - The A* pathfinding algorithm for Elm.
 - [pixelEngine](https://github.com/Orasund/pixelengine) - A game engine for pixel games. Sees itself as the spirituell successor to Elmo-8
