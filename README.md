@@ -29,11 +29,16 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to [improve](http
 
 
 ## Tools
+
+- [Elm-Gamepad](https://github.com/xarvh/elm-gamepad) - Painless Elm library to use & configure gamepads and game controllers
+- [Elm-Narrative-Engine](https://github.com/jschomay/elm-narrative-engine/tree/3.0.1) - A unique tool for telling interactive stories.
+- [Elm-Particle](https://github.com/BrianHicks/elm-particle) - Simple particle system for web apps. 
 - [elm-astar](https://github.com/krisajenkins/elm-astar) - The A* pathfinding algorithm for Elm.
 - [pixelEngine](https://github.com/Orasund/pixelengine) - A game engine for pixel games. Sees itself as the spirituell successor to Elmo-8
 - [elm-2d-game](https://github.com/Zinggi/elm-2d-game) - A small rendering engine for creating 2d games with elm, based on WebGL
 - Elm 0.18
   - [Elm-Gameroom](https://github.com/peterszerzo/elm-gameroom) - This is a framework for creating multiplayer guessing games.
+  - [elm-hex-grid](https://github.com/danneu/elm-hex-grid) - A hex-grid library for elm
   - [mazes](https://github.com/coreyhaines/mazes)
   - [Elmo-8](https://github.com/micktwomey/elmo-8) - PICO-8 inspired fantasy 8-bit game library for Elm
 - Elm 0.17
