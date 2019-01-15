@@ -30,6 +30,10 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to [improve](http
 
 ## Tools
 
+- [Elm-Tile-Editor](https://github.com/danneu/elm-tile-editor) - A Tile Editor written in Elm
+- [Slime](https://github.com/seurimas/slime) - Slime provides an easy way to build a full game, using common [Entity-Component-System architecture](https://en.wikipedia.org/wiki/Entity%E2%80%93component%E2%80%93system).
+- [Tiler](https://github.com/wolfadex/tiler) - A Maze generator
+- [elm-game-resources](https://github.com/Zinggi/elm-game-resources) - A library for managing game resources. Compatible with [elm-2d-game](https://github.com/Zinggi/elm-2d-game)
 - [Elm-Gamepad](https://github.com/xarvh/elm-gamepad) - Painless Elm library to use & configure gamepads and game controllers
 - [Elm-Narrative-Engine](https://github.com/jschomay/elm-narrative-engine/tree/3.0.1) - A unique tool for telling interactive stories.
 - [Elm-Particle](https://github.com/BrianHicks/elm-particle) - Simple particle system for web apps. 
@@ -38,6 +42,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to [improve](http
 - [elm-2d-game](https://github.com/Zinggi/elm-2d-game) - A small rendering engine for creating 2d games with elm, based on WebGL
 - Elm 0.18
   - [Elm-collision](https://github.com/burabure/elm-collision) - Elm library to detect collision of geometry in coordinate space
+  - [Elm-Gameroom](https://github.com/peterszerzo/elm-gameroom) - This is a framework for creating multiplayer guessing games.
   - [elm-hex-grid](https://github.com/danneu/elm-hex-grid) - A hex-grid library for elm
   - [mazes](https://github.com/coreyhaines/mazes)
   - [Elmo-8](https://github.com/micktwomey/elmo-8) - PICO-8 inspired fantasy 8-bit game library for Elm
