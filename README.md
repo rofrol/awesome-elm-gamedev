@@ -30,6 +30,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to [improve](http
 
 ## Tools
 
+- [Tiler](https://github.com/wolfadex/tiler) - A Maze generator
 - [elm-game-resources](https://github.com/Zinggi/elm-game-resources) - A library for managing game resources. Compatible with [elm-2d-game](https://github.com/Zinggi/elm-2d-game)
 - [Elm-Gamepad](https://github.com/xarvh/elm-gamepad) - Painless Elm library to use & configure gamepads and game controllers
 - [Elm-Narrative-Engine](https://github.com/jschomay/elm-narrative-engine/tree/3.0.1) - A unique tool for telling interactive stories.
