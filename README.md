@@ -30,6 +30,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to [improve](http
 
 ## Tools
 
+- [Slime](https://github.com/seurimas/slime) - Slime provides an easy way to build a full game, using common [Entity-Component-System architecture](https://en.wikipedia.org/wiki/Entity%E2%80%93component%E2%80%93system).
 - [Tiler](https://github.com/wolfadex/tiler) - A Maze generator
 - [elm-game-resources](https://github.com/Zinggi/elm-game-resources) - A library for managing game resources. Compatible with [elm-2d-game](https://github.com/Zinggi/elm-2d-game)
 - [Elm-Gamepad](https://github.com/xarvh/elm-gamepad) - Painless Elm library to use & configure gamepads and game controllers
