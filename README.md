@@ -72,6 +72,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to [improve](http
 - [Writing Game of Life in Elm](http://sonnym.github.io/2014/05/05/writing-game-of-life-in-elm/)
 - [Five Months of Gamedev with Elm](https://medium.com/@markwunsch/five-months-of-gamedev-with-elm-62be2de75ca2)
 - [Revisiting the Game of Life in Elm](https://sonnym.github.io/2017/05/22/revisiting-the-game-of-life-in-elm/)
+- [Writing A Word Memory Game In Elm - Part 1: Setting Up an Elm Application With Parcel ](https://dev.to/mickeyvip/writing-a-word-memory-game-inelm---part-1-setting-up-an-elm-application-with-parcel-1ppk)
 
 **[:arrow_up: back to top](#table-of-contents)**
 
