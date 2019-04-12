@@ -40,6 +40,8 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to [improve](http
 - [elm-astar](https://github.com/krisajenkins/elm-astar) - The A* pathfinding algorithm for Elm.
 - [pixelEngine](https://github.com/Orasund/pixelengine) - A game engine for pixel games. Sees itself as the spirituell successor to Elmo-8
 - [elm-2d-game](https://github.com/Zinggi/elm-2d-game) - A small rendering engine for creating 2d games with elm, based on WebGL
+- https://package.elm-lang.org/packages/w0rm/elm-physics/latest
+  - [Andrey Kuzmin - Lightning Talk: Fighting the Law of Physics with Elm | Lambda Days 2019 - YouTube](https://www.youtube.com/watch?list=PLvL2NEhYV4ZvCRCVlXTfB6-d09K3r0Sxa&v=WXz-I1_yFic)
 - Elm 0.18
   - [elm-quiz](https://github.com/camjc/elm-quiz) - A package for creating Quiz games.
   - [Elm-collision](https://github.com/burabure/elm-collision) - Elm library to detect collision of geometry in coordinate space
