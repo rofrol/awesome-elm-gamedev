@@ -75,6 +75,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to [improve](http
 - [Five Months of Gamedev with Elm](https://medium.com/@markwunsch/five-months-of-gamedev-with-elm-62be2de75ca2)
 - [Revisiting the Game of Life in Elm](https://sonnym.github.io/2017/05/22/revisiting-the-game-of-life-in-elm/)
 - [Writing A Word Memory Game In Elm - Part 1: Setting Up an Elm Application With Parcel ](https://dev.to/mickeyvip/writing-a-word-memory-game-inelm---part-1-setting-up-an-elm-application-with-parcel-1ppk)
+- Making a pong game in elm [1](http://mathieu.agopian.info/blog/making-a-pong-game-in-elm.html) [2](http://mathieu.agopian.info/blog/making-a-pong-game-in-elm-2.html) [3](http://mathieu.agopian.info/blog/making-a-pong-game-in-elm-3.html) [4](http://mathieu.agopian.info/blog/making-a-pong-game-in-elm-4.html)
 
 **[:arrow_up: back to top](#table-of-contents)**
 
